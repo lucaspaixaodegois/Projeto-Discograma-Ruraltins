@@ -1,0 +1,61 @@
+{
+  "disc": "3",
+  "fishPopulation": [
+    {
+      "discPosition": "0",
+      "info1": "2300 px | 0,5Kg",
+      "info2": "1150 px | 1.0Kg",
+      "info3": "863 px | 1.5Kg",
+      "info4": "575 px | 2.0Kg"
+    },
+    {
+      "discPosition": "1",
+      "info1": "3450 px | 0,5Kg",
+      "info2": "1725 px | 1.0Kg",
+      "info3": "1294 px | 1.5Kg",
+      "info4": "863 px | 2.0Kg"
+    },
+    {
+      "discPosition": "2",
+      "info1": "4600 px | 0,5Kg",
+      "info2": "2300 px | 1.0Kg",
+      "info3": "1725 px | 1.5Kg",
+      "info4": "1150 px | 2.0Kg"
+    },
+    {
+      "discPosition": "3",
+      "info1": " 11500px | 0,5Kg",
+      "info2": " 5750 px | 1.0Kg",
+      "info3": " 4313 px | 1.5Kg",
+      "info4": " 2875 px | 2.0Kg"
+    },
+    {
+      "discPosition": "4",
+      "info1": " 460 px | 0,5Kg",
+      "info2": " 230 px | 1.0Kg",
+      "info3": " 173 px | 1.5Kg",
+      "info4": " 115 px | 2.0Kg"
+    },
+    {
+      "discPosition": "5",
+      "info1": " 920 px | 0,5Kg",
+      "info2": " 460 px | 1.0Kg",
+      "info3": " 345 px | 1.5Kg",
+      "info4": " 230 px | 2.0Kg"
+    },
+    {
+      "discPosition": "6",
+      "info1": " 1380 px | 0,5Kg",
+      "info2": " 690 px | 1.0Kg",
+      "info3": "518 px | 1.5Kg",
+      "info4": "345 px | 2.0Kg"
+    },
+    {
+      "discPosition": "7",
+      "info1": "1840 px | 0,5Kg",
+      "info2": "920 px | 1.0Kg",
+      "info3": "690 px | 1.5Kg",
+      "info4": "460 px | 2.0Kg"
+    }
+  ]
+}

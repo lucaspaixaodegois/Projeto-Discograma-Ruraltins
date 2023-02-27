@@ -1,0 +1,17 @@
+{
+  "profile": [
+    {
+      "collaboratorName": "Lucas Gois",
+      "collaboratordiscription": "Analista de Sistemas", 
+      "collaboratorImg":"assets/image/avatar/lucas_avatar.png"
+
+    },
+    {
+      "collaboratorName": "Andrey Costa",
+      "collaboratordiscription": "Analista de Sistemas", 
+      "collaboratorImg":"assets/image/avatar/andrey_avatar.png"
+
+    }
+    
+  ]
+}

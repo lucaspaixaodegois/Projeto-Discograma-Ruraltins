@@ -1,0 +1,61 @@
+{
+  "disc": "2",
+  "quantityOfRationDisc": [
+    {
+      "discPosition": "0",
+      "info1": ">40%PB | 1.7mm | 5Kg",
+      "info2": "40%PB | 2-4mm | 14Kg",
+      "info3": "36%PB | 4-6mm | 25Kg",
+      "info4": "32%PB | 8mm | 170Kg",
+      "info5": "28%PB | 10mm | 70Kg"
+    },
+    {
+      "discPosition": "1",
+      "info1": ">40%PB | 1.7mm | 10Kg",
+      "info2": "40%PB | 2-4mm | 28Kg",
+      "info3": "36%PB | 4-6mm | 50Kg",
+      "info4": "32%PB | 8mm | 340Kg",
+      "info5": "28%PB | 10mm | 140Kg"
+    },
+    {
+      "discPosition": "2",
+      "info1": ">40%PB | 1.7mm | 15Kg",
+      "info2": "40%PB | 2-4mm | 42Kg",
+      "info3": "36%PB | 4-6mm | 75Kg",
+      "info4": "32%PB | 8mm | 510Kg",
+      "info5": "28%PB | 10mm | 210Kg"
+    },
+    {
+      "discPosition": "4",
+      "info1": ">40%PB | 1.7mm | 25Kg",
+      "info2": "40%PB | 2-4mm | 70Kg",
+      "info3": "36%PB | 4-6mm | 124Kg",
+      "info4": "32%PB | 8mm | 850Kg",
+      "info5": "28%PB | 10mm | 349Kg"
+    },
+    {
+      "discPosition": "5",
+      "info1": ">40%PB | 1.7mm | 38Kg",
+      "info2": "40%PB | 2-4mm | 105Kg",
+      "info3": "36%PB | 4-6mm | 186Kg",
+      "info4": "32%PB | 8mm | 1275Kg",
+      "info5": "28%PB | 10mm | 524Kg"
+    },
+    {
+      "discPosition": "6",
+      "info1": ">40%PB | 1.7mm | 51Kg",
+      "info2": "40%PB | 2-4mm | 139Kg",
+      "info3": "36%PB | 4-6mm | 249Kg",
+      "info4": "32%PB | 8mm | 1699Kg",
+      "info5": "28%PB | 10mm | 699Kg"
+    },
+    {
+      "discPosition": "7",
+      "info1": ">40%PB | 1.7mm | 127Kg",
+      "info2": "40%PB | 2-4mm | 349Kg",
+      "info3": "36%PB | 4-6mm | 99Kg",
+      "info4": "32%PB | 8mm | 680Kg",
+      "info5": "28%PB | 10mm | 279Kg"
+    }
+  ]
+}

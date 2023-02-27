@@ -1,0 +1,23 @@
+{
+  "discPresentation": [
+    {
+      "title": "O que é? Como funciona ?",
+      "discription":
+          "O mecanismo do discograma contém informações para auxiliar na criação de peixes redondos, desenvolvido por técnicos da Secretaria da Indústria, Comércio e Serviços (SICS) e do Instituto de Desenvolvimento Rural do Tocantins (Ruraltins), deve ajudar a alavancar a piscicultura no Estado.\n O dispositivo traz dados de planejamento produtivo, que normalmente exigem tabelas complexas, de uma forma simples.",
+       "img": "assets/image/avatar/quest_avatar.png"
+    },
+    {
+      "title": "Disco: Povoamento X Peso final",
+      "discription":
+          " O mecanismo consiste em uma plataforma contendo informações nas duas faces. Sobreposto por dois discos, contendo as seguintes informações: povoamento do tanque em relação ao peso final do peixe; quantidade de ração para peixe com peso final de 1 kg; percentual proteína bruta na ração; granulometria da ração em relação ao peso; total de quilo de ração em relação ao total da biomassa. \n Tudo isso para oito tamanhos de tanques que vão de 200 a 5.000 m² de área de lâmina d’água.",
+       "img": "assets/image/avatar/tanque_avatar.png"
+    }, 
+    {
+      "title": "Disco: Calendário X Fase dos Peixes",
+      "discription":
+          "  O outro disco contém um calendário circular com disco no centro que, ao se posicionar o disco, na data em que os alevinos foram povoados, indica as datas de mudanças de fase dos peixes, fornece alguns indicadores para cada fase (peso médio e o tamanho em centímetros, no final de cada fase); e fornece orientações sobre alguns procedimentos que o piscicultor deve adotar em cada fase, como: o nível de proteína da ração, granulometria da ração em cada fase do ciclo de vida do peixe; número de tratos diários; e o percentual de ração em relação à biomassa.\n O disco interno contém oito fases do peixe, usando o peso como referência da mudança de fase que vão de alevinos até 2 kg.",
+       "img": "assets/image/avatar/calendario_avatar.png"
+    }
+
+  ]
+}

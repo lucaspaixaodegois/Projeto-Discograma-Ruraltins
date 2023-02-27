@@ -1,0 +1,37 @@
+{
+  "disc": "1",
+  "pondSize": [
+    {
+      "discPosition": "0",
+      "info1": "200m²"
+    },
+    {
+      "discPosition": "1",
+      "info1": "400m²"
+    },
+    {
+      "discPosition": "2",
+      "info1": "600m²"
+    },
+    {
+      "discPosition": "3",
+      "info1": "800m²"
+    },
+    {
+      "discPosition": "4",
+      "info1": "1000m²"
+    },
+    {
+      "discPosition": "5",
+      "info1": "1500m²"
+    },
+    {
+      "discPosition": "6",
+      "info1": "2000m²"
+    },
+    {
+      "discPosition": "7",
+      "info1": "5000m²"
+    }
+  ]
+}
